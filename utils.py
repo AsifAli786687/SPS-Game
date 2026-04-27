@@ -1,0 +1,1 @@
+sps=["Stone","Paper","Scissor"]
